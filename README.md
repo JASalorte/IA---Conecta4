@@ -8,7 +8,7 @@ Esta es una aplicación desarrollada para ilustrar la interacción y control ent
 
 # Ejecución
 
-  Está aplicación funciona a través de la librería jade (http://jade.tilab.com/). Para ejecutar la aplicación simplemente tenemos que ir al directorio dist y ejecutar el siguiente comando. 
+  Requiere el JDK de java correctamente instalado para ello (http://www.oracle.com/technetwork/java/javase/downloads/index.html). Está aplicación funciona a través de la librería jade (http://jade.tilab.com/). Para ejecutar la aplicación simplemente tenemos que ir al directorio dist y ejecutar el siguiente comando. 
 
     java -cp OntologiaCuatroEnRaya.jar;lib/*;. jade.Boot -gui
     

@@ -43,8 +43,6 @@ import java.util.logging.Logger;
  * Agente Jugador que recibirá peticiones de juego de un Agente Tablero que esté
  * en el sistema y entablará una comunicación para jugar al juego de 4 en raya
  *
- * @author David Abad Vich
- * @author Jesús Alejandro Benitez Pedrero
  * @author Jesús Alberto Salazar Ortega
  */
 public class AgenteJugadorIAA extends Agent {

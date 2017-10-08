@@ -13,8 +13,6 @@ import java.awt.Font;
 /**
  *
  * @author Jesús Alberto Salazar Ortega
- * @author David Abad Vich
- * @author Jesús Alejandro Benitez Pedrero
  *
  *
  * Interfaz que se va a usar para mostrar el tablero, los mensajes y los

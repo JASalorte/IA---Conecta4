@@ -45,8 +45,6 @@ import java.util.logging.Logger;
  * Agente Tablero que se comunicará con los agentes de las páginas amarillas y
  * con dos de ellos iniciará una partida.
  *
- * @author David Abad Vich
- * @author Jesús Alejandro Benitez Pedrero
  * @author Jesús Alberto Salazar Ortega
  */
 public class AgenteTablero extends Agent {
